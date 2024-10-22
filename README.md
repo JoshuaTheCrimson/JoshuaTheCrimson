@@ -2,9 +2,6 @@
 
 ###
 
-<p align="left">Ali from kangaroo land 🇦🇺</p>
-
-###
 
 <h2 align="left"></h2>
 
