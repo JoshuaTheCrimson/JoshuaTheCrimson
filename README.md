@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">🧠 Artificial Intelligence x Data Science<br><br>🌐 little bit of FullStack development</p>
+<p align="left">🧠 Artificial Intelligence x Machine Learning<br><br>🌐 little bit of FullStack development</p>
 
 ###
 
